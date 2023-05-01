@@ -1,0 +1,8 @@
+D:\.NET\Day12\excpetionhandling\excpetionhandling\bin\Debug\excpetionhandling.exe.config
+D:\.NET\Day12\excpetionhandling\excpetionhandling\bin\Debug\excpetionhandling.exe
+D:\.NET\Day12\excpetionhandling\excpetionhandling\bin\Debug\excpetionhandling.pdb
+D:\.NET\Day12\excpetionhandling\excpetionhandling\obj\Debug\excpetionhandling.csproj.AssemblyReference.cache
+D:\.NET\Day12\excpetionhandling\excpetionhandling\obj\Debug\excpetionhandling.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day12\excpetionhandling\excpetionhandling\obj\Debug\excpetionhandling.csproj.CoreCompileInputs.cache
+D:\.NET\Day12\excpetionhandling\excpetionhandling\obj\Debug\excpetionhandling.exe
+D:\.NET\Day12\excpetionhandling\excpetionhandling\obj\Debug\excpetionhandling.pdb

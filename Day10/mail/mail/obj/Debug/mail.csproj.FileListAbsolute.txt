@@ -1,0 +1,8 @@
+D:\.NET\Day10\mail\mail\bin\Debug\mail.exe.config
+D:\.NET\Day10\mail\mail\bin\Debug\mail.exe
+D:\.NET\Day10\mail\mail\bin\Debug\mail.pdb
+D:\.NET\Day10\mail\mail\obj\Debug\mail.csproj.AssemblyReference.cache
+D:\.NET\Day10\mail\mail\obj\Debug\mail.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day10\mail\mail\obj\Debug\mail.csproj.CoreCompileInputs.cache
+D:\.NET\Day10\mail\mail\obj\Debug\mail.exe
+D:\.NET\Day10\mail\mail\obj\Debug\mail.pdb

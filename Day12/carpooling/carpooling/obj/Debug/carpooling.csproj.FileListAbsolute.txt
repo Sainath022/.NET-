@@ -1,0 +1,8 @@
+D:\.NET\Day12\carpooling\carpooling\obj\Debug\carpooling.csproj.AssemblyReference.cache
+D:\.NET\Day12\carpooling\carpooling\obj\Debug\carpooling.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day12\carpooling\carpooling\obj\Debug\carpooling.csproj.CoreCompileInputs.cache
+D:\.NET\Day12\carpooling\carpooling\bin\Debug\carpooling.exe.config
+D:\.NET\Day12\carpooling\carpooling\bin\Debug\carpooling.exe
+D:\.NET\Day12\carpooling\carpooling\bin\Debug\carpooling.pdb
+D:\.NET\Day12\carpooling\carpooling\obj\Debug\carpooling.exe
+D:\.NET\Day12\carpooling\carpooling\obj\Debug\carpooling.pdb

@@ -1,0 +1,8 @@
+D:\.NET\Day10\index\index\bin\Debug\index.exe.config
+D:\.NET\Day10\index\index\bin\Debug\index.exe
+D:\.NET\Day10\index\index\bin\Debug\index.pdb
+D:\.NET\Day10\index\index\obj\Debug\index.csproj.AssemblyReference.cache
+D:\.NET\Day10\index\index\obj\Debug\index.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day10\index\index\obj\Debug\index.csproj.CoreCompileInputs.cache
+D:\.NET\Day10\index\index\obj\Debug\index.exe
+D:\.NET\Day10\index\index\obj\Debug\index.pdb

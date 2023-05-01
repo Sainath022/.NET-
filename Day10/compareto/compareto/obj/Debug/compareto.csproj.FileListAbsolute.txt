@@ -1,0 +1,8 @@
+D:\.NET\Day10\compareto\compareto\bin\Debug\compareto.exe.config
+D:\.NET\Day10\compareto\compareto\bin\Debug\compareto.exe
+D:\.NET\Day10\compareto\compareto\bin\Debug\compareto.pdb
+D:\.NET\Day10\compareto\compareto\obj\Debug\compareto.csproj.AssemblyReference.cache
+D:\.NET\Day10\compareto\compareto\obj\Debug\compareto.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day10\compareto\compareto\obj\Debug\compareto.csproj.CoreCompileInputs.cache
+D:\.NET\Day10\compareto\compareto\obj\Debug\compareto.exe
+D:\.NET\Day10\compareto\compareto\obj\Debug\compareto.pdb
