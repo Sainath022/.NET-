@@ -1,0 +1,8 @@
+D:\.NET\Day15\assign3\assign3\bin\Debug\assign3.exe.config
+D:\.NET\Day15\assign3\assign3\bin\Debug\assign3.exe
+D:\.NET\Day15\assign3\assign3\bin\Debug\assign3.pdb
+D:\.NET\Day15\assign3\assign3\obj\Debug\assign3.csproj.AssemblyReference.cache
+D:\.NET\Day15\assign3\assign3\obj\Debug\assign3.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day15\assign3\assign3\obj\Debug\assign3.csproj.CoreCompileInputs.cache
+D:\.NET\Day15\assign3\assign3\obj\Debug\assign3.exe
+D:\.NET\Day15\assign3\assign3\obj\Debug\assign3.pdb

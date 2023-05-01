@@ -1,0 +1,8 @@
+D:\.NET\Day15\SongReq3\SongReq3\obj\Debug\SongReq3.csproj.AssemblyReference.cache
+D:\.NET\Day15\SongReq3\SongReq3\obj\Debug\SongReq3.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day15\SongReq3\SongReq3\obj\Debug\SongReq3.csproj.CoreCompileInputs.cache
+D:\.NET\Day15\SongReq3\SongReq3\bin\Debug\SongReq3.exe.config
+D:\.NET\Day15\SongReq3\SongReq3\bin\Debug\SongReq3.exe
+D:\.NET\Day15\SongReq3\SongReq3\bin\Debug\SongReq3.pdb
+D:\.NET\Day15\SongReq3\SongReq3\obj\Debug\SongReq3.exe
+D:\.NET\Day15\SongReq3\SongReq3\obj\Debug\SongReq3.pdb
