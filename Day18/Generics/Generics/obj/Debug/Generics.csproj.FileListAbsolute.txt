@@ -1,0 +1,8 @@
+D:\Virtual studio\Day18\Generics\Generics\bin\Debug\Generics.exe.config
+D:\Virtual studio\Day18\Generics\Generics\bin\Debug\Generics.exe
+D:\Virtual studio\Day18\Generics\Generics\bin\Debug\Generics.pdb
+D:\Virtual studio\Day18\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+D:\Virtual studio\Day18\Generics\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day18\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day18\Generics\Generics\obj\Debug\Generics.exe
+D:\Virtual studio\Day18\Generics\Generics\obj\Debug\Generics.pdb
