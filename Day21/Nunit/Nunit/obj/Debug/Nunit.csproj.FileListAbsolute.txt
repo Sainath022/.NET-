@@ -1,8 +1,0 @@
-D:\.NET\Day21\Nunit\Nunit\obj\Debug\Nunit.csproj.AssemblyReference.cache
-D:\.NET\Day21\Nunit\Nunit\obj\Debug\Nunit.csproj.SuggestedBindingRedirects.cache
-D:\.NET\Day21\Nunit\Nunit\obj\Debug\Nunit.csproj.CoreCompileInputs.cache
-D:\.NET\Day21\Nunit\Nunit\bin\Debug\Nunit.exe.config
-D:\.NET\Day21\Nunit\Nunit\bin\Debug\Nunit.exe
-D:\.NET\Day21\Nunit\Nunit\bin\Debug\Nunit.pdb
-D:\.NET\Day21\Nunit\Nunit\obj\Debug\Nunit.exe
-D:\.NET\Day21\Nunit\Nunit\obj\Debug\Nunit.pdb

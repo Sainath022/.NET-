@@ -1,6 +1,0 @@
-D:\.NET\Day21\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
-D:\.NET\Day21\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
-D:\.NET\Day21\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
-D:\.NET\Day21\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
-D:\.NET\Day21\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
-D:\.NET\Day21\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
