@@ -1,8 +1,0 @@
-D:\.NET\Day21\Mango\Mango\bin\Debug\Mango.exe.config
-D:\.NET\Day21\Mango\Mango\bin\Debug\Mango.exe
-D:\.NET\Day21\Mango\Mango\bin\Debug\Mango.pdb
-D:\.NET\Day21\Mango\Mango\obj\Debug\Mango.csproj.AssemblyReference.cache
-D:\.NET\Day21\Mango\Mango\obj\Debug\Mango.csproj.SuggestedBindingRedirects.cache
-D:\.NET\Day21\Mango\Mango\obj\Debug\Mango.csproj.CoreCompileInputs.cache
-D:\.NET\Day21\Mango\Mango\obj\Debug\Mango.exe
-D:\.NET\Day21\Mango\Mango\obj\Debug\Mango.pdb

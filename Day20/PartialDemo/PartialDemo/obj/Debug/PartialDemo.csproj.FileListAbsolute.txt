@@ -1,8 +1,0 @@
-D:\.NET\Day21\PartialDemo\PartialDemo\bin\Debug\PartialDemo.exe.config
-D:\.NET\Day21\PartialDemo\PartialDemo\bin\Debug\PartialDemo.exe
-D:\.NET\Day21\PartialDemo\PartialDemo\bin\Debug\PartialDemo.pdb
-D:\.NET\Day21\PartialDemo\PartialDemo\obj\Debug\PartialDemo.csproj.AssemblyReference.cache
-D:\.NET\Day21\PartialDemo\PartialDemo\obj\Debug\PartialDemo.csproj.SuggestedBindingRedirects.cache
-D:\.NET\Day21\PartialDemo\PartialDemo\obj\Debug\PartialDemo.csproj.CoreCompileInputs.cache
-D:\.NET\Day21\PartialDemo\PartialDemo\obj\Debug\PartialDemo.exe
-D:\.NET\Day21\PartialDemo\PartialDemo\obj\Debug\PartialDemo.pdb
