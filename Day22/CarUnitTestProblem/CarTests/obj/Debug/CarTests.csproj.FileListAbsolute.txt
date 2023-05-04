@@ -1,0 +1,2 @@
+D:\.NET\Day22\CarUnitTestProblem\CarTests\obj\Debug\CarTests.csproj.AssemblyReference.cache
+D:\.NET\Day22\CarUnitTestProblem\CarTests\obj\Debug\CarTests.csproj.CoreCompileInputs.cache

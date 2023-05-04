@@ -1,0 +1,3 @@
+D:\.NET\Day22\CarUnitTestProblem\CarUI\obj\Debug\CarUI.csproj.AssemblyReference.cache
+D:\.NET\Day22\CarUnitTestProblem\CarUI\obj\Debug\CarUI.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day22\CarUnitTestProblem\CarUI\obj\Debug\CarUI.csproj.CoreCompileInputs.cache
