@@ -1,0 +1,13 @@
+D:\.NET\Day24\demo\demo\bin\Debug\demo.exe.config
+D:\.NET\Day24\demo\demo\bin\Debug\demo.exe
+D:\.NET\Day24\demo\demo\bin\Debug\demo.pdb
+D:\.NET\Day24\demo\demo\bin\Debug\EntityFramework.dll
+D:\.NET\Day24\demo\demo\bin\Debug\EntityFramework.SqlServer.dll
+D:\.NET\Day24\demo\demo\bin\Debug\EntityFramework.xml
+D:\.NET\Day24\demo\demo\bin\Debug\EntityFramework.SqlServer.xml
+D:\.NET\Day24\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+D:\.NET\Day24\demo\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day24\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+D:\.NET\Day24\demo\demo\obj\Debug\demo.csproj.CopyComplete
+D:\.NET\Day24\demo\demo\obj\Debug\demo.exe
+D:\.NET\Day24\demo\demo\obj\Debug\demo.pdb

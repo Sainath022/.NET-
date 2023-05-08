@@ -1,0 +1,13 @@
+D:\.NET\Day24\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+D:\.NET\Day24\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+D:\.NET\Day24\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+D:\.NET\Day24\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+D:\.NET\Day24\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\.NET\Day24\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+D:\.NET\Day24\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\.NET\Day24\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.AssemblyReference.cache
+D:\.NET\Day24\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day24\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+D:\.NET\Day24\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+D:\.NET\Day24\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+D:\.NET\Day24\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
