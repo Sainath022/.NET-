@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>C# Code to HTML</title>
+</head>
+<body>
+  <h2>Following example is of an C# OOPS</h2>
+  <pre>
+    <code>
+      using System;
+      using System.Collections.Generic;
+      namespace ConsoleAppl2
+      {
+        class Program
+        {
+          static void Main(string[] args)
+          {
+            List&lt;Student&gt; students = new List&lt;Student&gt;()
+            {
+              new Student{ Id = 101, Name = "Raj" },
+              new Student{ Id = 102, Name = "Rajee" }
+            };
+            Console.ReadKey();
+          }
+        }
+        public class Student
+        {
+          public int Id { get; set; }
+          public string Name { get; set; }
+        }
+       }
+    </code>
+  </pre>
+</body>
+</html>
