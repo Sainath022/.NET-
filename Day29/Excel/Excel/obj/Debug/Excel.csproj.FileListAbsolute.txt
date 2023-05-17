@@ -1,0 +1,3 @@
+D:\.NET\Day29\Excel\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+D:\.NET\Day29\Excel\Excel\obj\Debug\Excel.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day29\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
