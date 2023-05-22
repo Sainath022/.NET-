@@ -1,0 +1,8 @@
+D:\.NET\Day34\singleton\singleton\bin\Debug\singleton.exe.config
+D:\.NET\Day34\singleton\singleton\bin\Debug\singleton.exe
+D:\.NET\Day34\singleton\singleton\bin\Debug\singleton.pdb
+D:\.NET\Day34\singleton\singleton\obj\Debug\singleton.csproj.AssemblyReference.cache
+D:\.NET\Day34\singleton\singleton\obj\Debug\singleton.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day34\singleton\singleton\obj\Debug\singleton.csproj.CoreCompileInputs.cache
+D:\.NET\Day34\singleton\singleton\obj\Debug\singleton.exe
+D:\.NET\Day34\singleton\singleton\obj\Debug\singleton.pdb
