@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Online Learning Platform</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+  <style>
+    .course-card {
+
+      margin-bottom: 20px;
+
+    }
+
+    .course-card img {
+
+      height: 200px;
+
+      object-fit: cover;
+
+    }
+
+    .jumbotron {
+
+      background-image: url("background.jpg");
+
+      background-size: cover;
+
+      background-position: center;
+
+      color: #eceaea;
+
+      padding: 100px 0;
+
+    }
+
+    .nav-item {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    #mySidenav a {
+      position: absolute;
+      right: -80px;
+      transition: 0.3s;
+      padding: 15px;
+      width: 100px;
+      text-decoration: none;
+      font-size: 20px;
+      color: white;
+      border-radius: 5px 0 0 5px;
+    }
+
+    #mySidenav a:hover {
+      right: 0;
+    }
+
+
+    #About {
+      top: 80px;
+      background-color: #2196F3;
+    }
+
+    #Contact {
+      top: 160px;
+      background-color: #04AA6D;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <!-- Navigation bar -->
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-info">
+
+    <img src="logo.png" alt="logo" width="160" height="50">
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+
+      <span class="navbar-toggler-icon"></span>
+
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+
+      <ul class="navbar-nav ml-auto">
+
+        <li class="nav-item dropdown">
+
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownResources" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+
+            <b>Resources</b>
+
+          </a>
+
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownResources">
+
+            <a class="dropdown-item" href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+
+            <a class="dropdown-item" href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+
+            <a class="dropdown-item" href="https://www.javatpoint.com/java-basics">Java</a>
+
+            <a class="dropdown-item" href="https://docs.python.org/3/tutorial/index.html">Python</a>
+
+            <a class="dropdown-item" href="https://www.w3schools.com/cs/index.php">C#</a>
+
+            <a class="dropdown-item" href="https://www.w3schools.com/c/index.php">C</a>
+
+            <a class="dropdown-item" href="https://javascript.info/">JavaScript</a>
+
+          </div>
+
+        </li>
+
+        <li class="nav-item">
+
+          <form class="form-inline my-2 my-lg-0">
+
+            <div class="input-group">
+
+              <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+
+              <div class="input-group-append">
+
+                <button class="btn btn-dark" type="submit">
+
+                  <i class="fas fa-search"></i>
+
+                </button>
+
+              </div>
+
+            </div>
+
+          </form>
+
+        </li>
+
+        <li class="nav-item">
+
+          <button type="button" class="btn btn-dark btn-sm"><a class="nav-link"
+              href="Login.html"><b>Login</b></a></button>
+
+        </li>
+
+      </ul>
+
+    </div>
+
+  </nav>
+
+  <div id="mySidenav" class="sidenav">
+    <a href="#" id="About">About</a>
+    <a href="#" id="Contact">Contact</a>
+  </div>
+
+  <!-- Heading section -->
+
+  <header class="jumbotron">
+
+    <div class="container">
+
+      <h1 style="font-family:'Times New Roman', Times, serif" ;>Welcome to CodeZone</h1>
+
+      <p style="font-family: Arial, Helvetica, sans-serif;">Learn new skills anytime, anywhere.</p>
+
+      <a class="btn btn-secondary " href="#" role="button">Get Started</a>
+
+    </div>
+
+  </header>
+
+  <!-- Courses Section -->
+
+  <section id="courses" class="py-5">
+
+    <div class="container">
+
+      <h2 class="text-center mb-4">Courses</h2>
+
+      <div class="row">
+
+        <div class="col-md-4">
+
+          <div class="card mb-4">
+
+            <img src="Csharp.jpg" class="card-img-top" alt="Course 1">
+
+            <div class="card-body">
+
+              <h5 class="card-title">C#</h5>
+
+              <p class="card-text">C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET
+                Framework.
+
+                C# is used to develop web apps, desktop apps, mobile apps, games and much more.</p>
+
+              <a href="#" class="btn btn-primary">Enroll Now</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="col-md-4">
+
+          <div class="card mb-4">
+
+            <img src="java.jpg" class="card-img-top" alt="Course 2">
+
+            <div class="card-body">
+
+              <h5 class="card-title">Java</h5>
+
+              <p class="card-text">Java is a popular programming language.
+
+                Java is used to develop mobile apps, web apps, desktop apps, games and much more.</p>
+
+              <a href="#" class="btn btn-primary">Enroll Now</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="col-md-4">
+
+          <div class="card mb-4">
+
+            <img src="python.jpg" class="card-img-top" alt="Course 3">
+
+            <div class="card-body">
+
+              <h5 class="card-title">Python</h5>
+
+              <p class="card-text">Python is a high-level, general-purpose programming language. Its design philosophy
+                emphasizes code readability with the use of significant indentation via the off-side rule.</p>
+
+              <a href="#" class="btn btn-primary">Enroll Now</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="col-md-4">
+
+          <div class="card mb-4">
+
+            <img src="html.jpg" class="card-img-top" alt="Course 4">
+
+            <div class="card-body">
+
+              <h5 class="card-title">HTML</h5>
+
+              <p class="card-text">HTML is the standard markup language for Web pages.
+
+                With HTML you can create your own Website.
+
+                HTML is easy to learn - You will enjoy it!</p>
+
+              <a href="#" class="btn btn-primary">Enroll Now</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="col-md-4">
+
+          <div class="card mb-4">
+
+            <img src="css.jpg" class="card-img-top" alt="Course 5">
+
+            <div class="card-body">
+
+              <h5 class="card-title">CSS</h5>
+
+              <p class="card-text">Cascading Style Sheets (CSS) is a style sheet language used for describing the
+                presentation of a document written in a markup language such as HTML or XML.</p>
+
+              <a href="#" class="btn btn-primary">Enroll Now</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="col-md-4">
+
+          <div class="card mb-4">
+
+            <img src="javascript.jpg" class="card-img-top" alt="Course 6">
+
+            <div class="card-body">
+
+              <h5 class="card-title">JavaScript</h5>
+
+              <p class="card-text">JavaScript, often abbreviated as JS, is a programming language that is one of the
+                core technologies of the World Wide Web, alongside HTML and CSS.</p>
+
+              <a href="#" class="btn btn-primary">Enroll Now</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-dark text-center text-white">
+    <div class="container p-4">
+      <section class="mb-4">
+        <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-facebook-f"></i></a>
+        <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-twitter"></i></a>
+        <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-google"></i></a>
+        <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-instagram"></i></a>
+        <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-linkedin-in"></i></a>
+        <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-github"></i></a>
+      </section>
+      <section class="">
+        <form action="">
+          <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+              <p class="pt-2">
+                <strong>Sign up for our newsletter</strong>
+              </p>
+            </div>
+            <div class="col-md-5 col-12">
+              <div class="form-outline form-white mb-4">
+                <input type="email" id="form5Example21" class="form-control" />
+                <label class="form-label" for="form5Example21">Email address</label>
+              </div>
+            </div>
+            <div class="col-auto">
+              <button type="submit" class="btn btn-outline-light mb-4">
+                Subscribe
+              </button>
+            </div>
+          </div>
+        </form>
+      </section>
+      <section class="mb-4">
+        <p>
+          Learn anytime and anywhere.
+          Learn more skills, be more competitive...
+        </p>
+      </section>
+      <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        &copy; 2023 Online Learning Platform.All rights reserved.
+      </div>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
