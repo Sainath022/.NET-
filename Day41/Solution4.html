@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+    <head><script>
+        
+
+const emails = [
+
+"abc@gmail.com",
+
+"frg@yahoo.com",
+
+"hgjhg@hotmail.com",
+
+"hjkgh@infy.com",
+
+"john@gmail.com",
+
+"mary@yahoo.com",
+
+"smith@hotmail.com",
+
+"jdoe@gmail.com",
+
+"jane@yahoo.com",
+
+"alex@hotmail.com",
+
+"test@gmail.com",
+
+"example@yahoo.com",
+
+"info@hotmail.com",
+
+"user@domain.com",
+
+"random@gmail.com",
+
+"xyz@yahoo.com",
+
+"hello@hotmail.com",
+
+"name@gmail.com",
+
+"foo@yahoo.com",
+
+"bar@hotmail.com",
+
+"customer@gmail.com",
+
+"support@yahoo.com",
+
+"admin@hotmail.com",
+
+"contact@gmail.com",
+
+"service@yahoo.com",
+
+"help@hotmail.com",
+
+"sales@gmail.com",
+
+"marketing@yahoo.com",
+
+"feedback@hotmail.com",
+
+"noreply@gmail.com"
+
+];
+
+const categorizedEmails = {
+
+Google: [],
+
+Yahoo: [],
+
+Hotmail: [],
+
+Others: []
+
+};
+
+
+
+for (let i = 0; i < emails.length; i++) {
+
+const email = emails[i];
+
+const domain = email.substring(email.lastIndexOf("@") + 1);
+
+switch (domain) {
+
+ case "gmail.com":
+
+  categorizedEmails.Google.push(email);
+
+  break;
+
+ case "yahoo.com":
+
+  categorizedEmails.Yahoo.push(email);
+
+  break;
+
+ case "hotmail.com":
+
+  categorizedEmails.Hotmail.push(email);
+
+  break;
+
+ default:
+
+  categorizedEmails.Others.push(email);
+
+  break;
+
+}
+
+}
+
+document.write("Google:", categorizedEmails.Google);
+
+document.write("<br>","Yahoo:", categorizedEmails.Yahoo);
+
+document.write("<br>","Hotmail:", categorizedEmails.Hotmail);
+
+document.write("<br>","Others:", categorizedEmails.Others);
+
+</script>
+</head>
+</html>

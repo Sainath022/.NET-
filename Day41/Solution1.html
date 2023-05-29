@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Array Operations</title>
+
+    <style>
+        table {
+
+            border-collapse: collapse;
+
+        }
+
+        
+        th,
+        td {
+
+            border: 1px solid black;
+
+            padding: 5px;
+
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <h1>JavaScript Exercises</h1>
+
+
+
+    <h2>Original Array:</h2>
+
+    <div id="originalArray"></div>
+
+
+
+    <h2>Reversed Array:</h2>
+
+    <div id="reversedArray"></div>
+
+
+
+    <h2>Numbers Above 50:</h2>
+
+    <div id="numbersAbove50"></div>
+
+
+
+    <h2>Even and Odd Numbers:</h2>
+
+    <table>
+
+        <thead>
+      
+         <tr>
+      
+          <th>Even Numbers</th>
+      
+          <th>Odd Numbers</th>
+      
+         </tr>
+      
+        </thead>
+      
+        <tbody id="evenOddNumbers">
+      
+        </tbody>
+      
+    </table>
+
+
+
+    <script>
+
+        // Initialize the array
+
+        var numbers = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
+
+
+
+        // Reverse the array
+
+        var reversedArray = numbers.slice().reverse();
+
+
+
+        // Display the original array
+
+        document.getElementById("originalArray").textContent = numbers.join(", ");
+
+
+
+        // Display the reversed array
+
+        document.getElementById("reversedArray").textContent = reversedArray.join(", ");
+
+
+
+        // Display numbers above 50 or show an exception
+
+        var numbersAbove50 = numbers.filter(function (number) {
+
+            return number > 50;
+
+        });
+
+
+
+        if (numbersAbove50.length > 0) {
+
+            document.getElementById("numbersAbove50").textContent = numbersAbove50.join(", ");
+
+        } else {
+
+            document.getElementById("numbersAbove50").textContent = "No numbers above 50 found.";
+
+        } 
+
+  // Separate even and odd numbers into two columns of a table
+
+        var evenNumbers = [];
+      
+        var oddNumbers = [];
+      
+      
+      
+        numbers.forEach(function(number) {
+      
+         if (number % 2 === 0) {
+      
+          evenNumbers.push(number);
+      
+         } else {
+      
+          oddNumbers.push(number);
+      
+         }
+      
+        });
+      
+      
+      
+        var tableBody = document.getElementById("evenOddNumbers");
+      
+        var maxLength = Math.max(evenNumbers.length, oddNumbers.length);
+      
+      
+      
+        for (var i = 0; i < maxLength; i++) {
+      
+         var row = document.createElement("tr");
+      
+      
+      
+         var evenCell = document.createElement("td");
+      
+         evenCell.textContent = evenNumbers[i] || "";
+      
+      
+      
+         var oddCell = document.createElement("td");
+      
+         oddCell.textContent = oddNumbers[i] || "";
+      
+      
+      
+         row.appendChild(evenCell);
+      
+         row.appendChild(oddCell);
+      
+      
+      
+         tableBody.appendChild(row);
+      
+        }
+
+    </script>
+
+</body>
+
+</html>
