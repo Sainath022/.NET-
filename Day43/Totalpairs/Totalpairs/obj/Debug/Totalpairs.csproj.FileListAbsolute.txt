@@ -1,0 +1,8 @@
+D:\.NET\Day42\Totalpairs\Totalpairs\bin\Debug\Totalpairs.exe.config
+D:\.NET\Day42\Totalpairs\Totalpairs\bin\Debug\Totalpairs.exe
+D:\.NET\Day42\Totalpairs\Totalpairs\bin\Debug\Totalpairs.pdb
+D:\.NET\Day42\Totalpairs\Totalpairs\obj\Debug\Totalpairs.csproj.AssemblyReference.cache
+D:\.NET\Day42\Totalpairs\Totalpairs\obj\Debug\Totalpairs.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day42\Totalpairs\Totalpairs\obj\Debug\Totalpairs.csproj.CoreCompileInputs.cache
+D:\.NET\Day42\Totalpairs\Totalpairs\obj\Debug\Totalpairs.exe
+D:\.NET\Day42\Totalpairs\Totalpairs\obj\Debug\Totalpairs.pdb

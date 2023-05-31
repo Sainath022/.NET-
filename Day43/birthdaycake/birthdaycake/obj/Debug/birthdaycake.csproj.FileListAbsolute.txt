@@ -1,0 +1,8 @@
+D:\.NET\Day42\birthdaycake\birthdaycake\bin\Debug\birthdaycake.exe.config
+D:\.NET\Day42\birthdaycake\birthdaycake\bin\Debug\birthdaycake.exe
+D:\.NET\Day42\birthdaycake\birthdaycake\bin\Debug\birthdaycake.pdb
+D:\.NET\Day42\birthdaycake\birthdaycake\obj\Debug\birthdaycake.csproj.AssemblyReference.cache
+D:\.NET\Day42\birthdaycake\birthdaycake\obj\Debug\birthdaycake.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day42\birthdaycake\birthdaycake\obj\Debug\birthdaycake.csproj.CoreCompileInputs.cache
+D:\.NET\Day42\birthdaycake\birthdaycake\obj\Debug\birthdaycake.exe
+D:\.NET\Day42\birthdaycake\birthdaycake\obj\Debug\birthdaycake.pdb
