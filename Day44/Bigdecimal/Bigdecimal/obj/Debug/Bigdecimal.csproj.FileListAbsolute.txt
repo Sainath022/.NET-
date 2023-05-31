@@ -1,0 +1,8 @@
+D:\.NET\Day44\Bigdecimal\Bigdecimal\bin\Debug\Bigdecimal.exe.config
+D:\.NET\Day44\Bigdecimal\Bigdecimal\bin\Debug\Bigdecimal.exe
+D:\.NET\Day44\Bigdecimal\Bigdecimal\bin\Debug\Bigdecimal.pdb
+D:\.NET\Day44\Bigdecimal\Bigdecimal\obj\Debug\Bigdecimal.csproj.AssemblyReference.cache
+D:\.NET\Day44\Bigdecimal\Bigdecimal\obj\Debug\Bigdecimal.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day44\Bigdecimal\Bigdecimal\obj\Debug\Bigdecimal.csproj.CoreCompileInputs.cache
+D:\.NET\Day44\Bigdecimal\Bigdecimal\obj\Debug\Bigdecimal.exe
+D:\.NET\Day44\Bigdecimal\Bigdecimal\obj\Debug\Bigdecimal.pdb

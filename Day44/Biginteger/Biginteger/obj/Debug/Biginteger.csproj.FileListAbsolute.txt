@@ -1,0 +1,8 @@
+D:\.NET\Day44\Biginteger\Biginteger\bin\Debug\Biginteger.exe.config
+D:\.NET\Day44\Biginteger\Biginteger\bin\Debug\Biginteger.exe
+D:\.NET\Day44\Biginteger\Biginteger\bin\Debug\Biginteger.pdb
+D:\.NET\Day44\Biginteger\Biginteger\obj\Debug\Biginteger.csproj.AssemblyReference.cache
+D:\.NET\Day44\Biginteger\Biginteger\obj\Debug\Biginteger.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day44\Biginteger\Biginteger\obj\Debug\Biginteger.csproj.CoreCompileInputs.cache
+D:\.NET\Day44\Biginteger\Biginteger\obj\Debug\Biginteger.exe
+D:\.NET\Day44\Biginteger\Biginteger\obj\Debug\Biginteger.pdb

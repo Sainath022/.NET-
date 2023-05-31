@@ -1,0 +1,3 @@
+D:\.NET\Day44\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+D:\.NET\Day44\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Day44\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
